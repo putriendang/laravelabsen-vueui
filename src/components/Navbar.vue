@@ -12,7 +12,19 @@
           <router-link class="nav-link" to="/">Mahasiswa</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link" to="/matakuliah">Matakuliah</router-link>
+          <router-link class="nav-link" to="/matkuls">Matakuliah</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/absen">Absensi</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/smt">Semester</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/kontrakmk">Kontrak Matakuliah</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/jdwl">Jadwal</router-link>
         </li>
       </ul>
     </div>
